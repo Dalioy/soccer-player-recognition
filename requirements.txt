@@ -1,0 +1,16 @@
+numpy
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+facenet-pytorch
+mtcnn
+tensorflow
+joblib
+kagglehub
+selenium
+webdriver-manager
+requests
+pillow
